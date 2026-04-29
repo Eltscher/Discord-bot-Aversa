@@ -27,6 +27,6 @@ python main.py
 
 ## Usage
 
-The bot responds to commands prefixed with `!`.
+The bot responds to commands prefixed with `!`. Currently, it has a `!hello` command that replies with a greeting.
 
 Invite the bot to your server using the OAuth2 URL generated in the Developer Portal.
