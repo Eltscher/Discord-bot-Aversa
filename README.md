@@ -7,7 +7,7 @@ This is a basic Discord bot built with Python using the `discord.py` library.
 1. Create a new application in the [Discord Developer Portal](https://discord.com/developers/applications).
 2. Go to the "Bot" section and create a bot.
 3. Copy the bot token.
-4. Replace `'YOUR_BOT_TOKEN'` in `main.py` with your actual bot token.
+4. Replace `'DISCORD_TOKEN'` in `main.py` with your actual bot token.
 
 ## Installation
 
